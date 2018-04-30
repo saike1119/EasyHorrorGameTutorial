@@ -1,1 +1,3 @@
 # EasyHorrorGameTutorial_Null2x
+
+Unity初心者向けの簡単なホラーゲームを作成しようリポジトリです。
