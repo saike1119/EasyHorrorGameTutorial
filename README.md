@@ -1,4 +1,4 @@
-# EasyHorrorGameTutorial_Null2x
+# EasyHorrorGameTutorial
 
 #### 概要
 Unity初心者を対象としたUnityでゲームを作ってみようリポジトリです。  
