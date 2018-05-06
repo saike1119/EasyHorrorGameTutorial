@@ -1,13 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Chapte6\Scripts\Door.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Chapter7\Enemy.cs">
     <Files>
-      <File FileName="Assets\Chapte6\Scripts\Door.cs" Line="5" Column="17" />
-      <File FileName="Assets\Chapte6\Scripts\Key.cs" Line="29" Column="20" />
+      <File FileName="Assets\Chapter7\Enemy.cs" Line="10" Column="2" />
       <File FileName="Assets\Chapter1\Scripts\Sample3.cs" Line="1" Column="1" />
       <File FileName="Assets\Chapter2\Scripts\Chapter2_1.cs" Line="1" Column="1" />
       <File FileName="Assets\Chapter2\Scripts\Chapter2_2.cs" Line="1" Column="1" />
-      <File FileName="E:\HorrorVR\HorrorVR\Assets\VR\keydoorVR2.cs" Line="14" Column="19" />
+      <File FileName="E:\HorrorVR\HorrorVR\Assets\VR\keydoorVR2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

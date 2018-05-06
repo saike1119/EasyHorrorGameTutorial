@@ -51,15 +51,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Chapte6\Scripts\FreeDoor.cs" />
-     <Compile Include="Assets\Chapte6\Scripts\Key.cs" />
-     <Compile Include="Assets\Chapte6\Scripts\KeyDoor.cs" />
      <Compile Include="Assets\Chapter1\Scripts\Sample1.cs" />
      <Compile Include="Assets\Chapter1\Scripts\Sample2.cs" />
      <Compile Include="Assets\Chapter1\Scripts\Sample3.cs" />
      <Compile Include="Assets\Chapter1\Scripts\Sample4.cs" />
      <Compile Include="Assets\Chapter2\Scripts\Chapter2_1.cs" />
      <Compile Include="Assets\Chapter2\Scripts\Chapter2_2.cs" />
+     <Compile Include="Assets\Chapter6\Scripts\FreeDoor.cs" />
+     <Compile Include="Assets\Chapter6\Scripts\Key.cs" />
+     <Compile Include="Assets\Chapter6\Scripts\KeyDoor.cs" />
+     <Compile Include="Assets\Chapter7\Enemy.cs" />
      <None Include="Assets\BackgroundCars\FreeCar\BackgroundCar-Free.txt" />
      <None Include="Assets\Models\Key\readME keys.txt" />
  <Reference Include="UnityEngine.UI">
