@@ -13,8 +13,9 @@ Chapter4 asset(オブジェクト導入)
 Chapter5 3Dオブジェクト作成  
 Chapter6 スクリプト作成(ドアと鍵)  
 Chapter7 敵の作成(AI、Navmesh)  
-Chapter8 メニューシーン作成 
+Chapter8 メニューシーン作成  
 Chapter9 クリア・デッド判定作成  
 Chapter10 作品のクオリティ上げ  
 ChapterX 自由演習  
-  
+
+URL: https://drive.google.com/drive/folders/1msov3K0GkrfiFH4-Mp5D1g1zE0TuTnPE?usp=sharing
